@@ -50,17 +50,7 @@ VPS 4 : [Contabo: Cloud VPS 4](https://www.anrdoezrs.net/click-101278318-1379647
 
 ### Clone Script
 ```
-git clone https://github.com/uve12/Ithaca-Devnet-Node.git
-cd Ithaca-Devnet-Node
-```
-### Make script executable
-```
-chmod +x ithacadv.sh
-```
-
-### Start the Sequencer
-```
-./ithacadv.sh
+wget https://raw.githubusercontent.com/uve12/Ithaca-Devnet-Node/refs/heads/main/ithacadv.sh && chmod +x ithacadv.sh && ./ithacadv.sh
 ```
 
 **Watch the video for setup process**
