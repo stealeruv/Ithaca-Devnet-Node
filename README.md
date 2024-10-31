@@ -7,7 +7,7 @@ Ithaca Devnet Node Setup Guide
 
 - Our first step in that mission is Odyssey, an open-source Layer 2 testnet from the future, built with Reth, the OP Stack and Conduit. You can try it out today on Sepolia and start building with its unique features.
 
-Site : [Ithaca](https://www.ithaca.xyz/)) | X : [Ithaca-X](https://x.com/ithacaxyz) | Github : [Ithaca Git](https://github.com/ithacaxyz))
+Site : [Ithaca](https://www.ithaca.xyz/) | X : [Ithaca-X](https://x.com/ithacaxyz) | Github : [Ithaca Git](https://github.com/ithacaxyz)
 
 ---
 
