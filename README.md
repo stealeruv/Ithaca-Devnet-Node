@@ -48,9 +48,15 @@ VPS 4 : [Contabo: Cloud VPS 4](https://www.anrdoezrs.net/click-101278318-1379647
 
 ## Ithaca Script 
 
-### Clone Script
+### Run 1click Setup Script
 ```
 wget https://raw.githubusercontent.com/uve12/Ithaca-Devnet-Node/refs/heads/main/ithacadv.sh && chmod +x ithacadv.sh && ./ithacadv.sh
+```
+
+### Save jwt keys 
+
+```
+cat $HOME/odyssey/keys/jwt.hex
 ```
 
 **Watch the video for setup process**
